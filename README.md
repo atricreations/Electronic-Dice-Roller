@@ -41,3 +41,6 @@ Don't hesitate to email us at Atricreations@gmail.com if you need help with your
 - Some type of encoding for animations and other effects.
 - PC application to upload configurations.
 - Endless feature creep. 
+
+## License
+Electronic Dice Roller © 2024 by Atricareations is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
